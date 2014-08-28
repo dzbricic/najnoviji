@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5056" systemVersion="13E28" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="8YX-ce-x5E">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4514" systemVersion="13A598" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="8YX-ce-x5E">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3747"/>
     </dependencies>
     <scenes>
         <!--Recepti Slana Table View Controller - Slana jela-->
@@ -313,7 +313,7 @@
         <scene sceneID="tQc-zn-e8Y">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="zMj-vh-YcH" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Slatka jela" image="second" id="Z7h-1E-pvt"/>
+                    <tabBarItem key="tabBarItem" title="Slatka jela" image="first" id="Z7h-1E-pvt"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="QeD-Ih-m2u">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -401,7 +401,7 @@
         <scene sceneID="Ows-QE-qSS">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="wRp-Vf-dis" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Pretrazi" id="DdY-mC-bZJ"/>
+                    <tabBarItem key="tabBarItem" title="Pretrazi" image="first" id="DdY-mC-bZJ"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="DTu-uY-l83">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -419,7 +419,6 @@
     </scenes>
     <resources>
         <image name="first" width="30" height="30"/>
-        <image name="second" width="30" height="30"/>
     </resources>
     <color key="tintColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">

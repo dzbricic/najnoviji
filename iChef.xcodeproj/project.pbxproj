@@ -27,6 +27,7 @@
 		768EEE3919A9E559002F90A7 /* ReceptiTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 768EEE3819A9E559002F90A7 /* ReceptiTableViewCell.m */; };
 		768EEE3C19A9EF8D002F90A7 /* ReceptiSlatkaTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 768EEE3B19A9EF8D002F90A7 /* ReceptiSlatkaTableViewController.m */; };
 		768EEE3F19A9EFD7002F90A7 /* ReceptiSlatkaTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 768EEE3E19A9EFD7002F90A7 /* ReceptiSlatkaTableViewCell.m */; };
+		CD04F45C19AF848F0000D5AF /* Palacinci s makom punjeni vocem.png in Resources */ = {isa = PBXBuildFile; fileRef = CD04F45B19AF848F0000D5AF /* Palacinci s makom punjeni vocem.png */; };
 		CD91FC5F19ACE8B800969183 /* ReceptiSlanaTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD91FC5E19ACAE5B00969183 /* ReceptiSlanaTableViewController.m */; };
 		CD91FC6219ACEE2100969183 /* slanaDetalji.m in Sources */ = {isa = PBXBuildFile; fileRef = CD91FC6119ACEE2100969183 /* slanaDetalji.m */; };
 		CD94C47B19ADF09200B948DA /* slatkaKategorijaCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CD94C47A19ADF09200B948DA /* slatkaKategorijaCell.m */; };
@@ -80,6 +81,7 @@
 		768EEE3B19A9EF8D002F90A7 /* ReceptiSlatkaTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReceptiSlatkaTableViewController.m; sourceTree = "<group>"; };
 		768EEE3D19A9EFD7002F90A7 /* ReceptiSlatkaTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReceptiSlatkaTableViewCell.h; sourceTree = "<group>"; };
 		768EEE3E19A9EFD7002F90A7 /* ReceptiSlatkaTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReceptiSlatkaTableViewCell.m; sourceTree = "<group>"; };
+		CD04F45B19AF848F0000D5AF /* Palacinci s makom punjeni vocem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Palacinci s makom punjeni vocem.png"; path = "../../Palacinci s makom punjeni vocem.png"; sourceTree = "<group>"; };
 		CD91FC5D19ACAE5B00969183 /* ReceptiSlanaTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReceptiSlanaTableViewController.h; sourceTree = "<group>"; };
 		CD91FC5E19ACAE5B00969183 /* ReceptiSlanaTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReceptiSlanaTableViewController.m; sourceTree = "<group>"; };
 		CD91FC6019ACEE2100969183 /* slanaDetalji.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = slanaDetalji.h; sourceTree = "<group>"; };
@@ -183,6 +185,7 @@
 				761F949F19A639DC0075C733 /* FirstViewController.m */,
 				761F94A119A639DC0075C733 /* SecondViewController.h */,
 				761F94A219A639DC0075C733 /* SecondViewController.m */,
+				CD04F45B19AF848F0000D5AF /* Palacinci s makom punjeni vocem.png */,
 				761F94A419A639DC0075C733 /* Images.xcassets */,
 				761F949019A639DC0075C733 /* Supporting Files */,
 				CD91FC6019ACEE2100969183 /* slanaDetalji.h */,
@@ -303,6 +306,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				761F94A519A639DC0075C733 /* Images.xcassets in Resources */,
+				CD04F45C19AF848F0000D5AF /* Palacinci s makom punjeni vocem.png in Resources */,
 				761F949419A639DC0075C733 /* InfoPlist.strings in Resources */,
 				761F949D19A639DC0075C733 /* Main.storyboard in Resources */,
 			);

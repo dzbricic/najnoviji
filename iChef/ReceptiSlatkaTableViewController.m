@@ -29,8 +29,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    if([self.nazivKategorije isEqualToString:@"palacinci"])
-        _slatkiRecepti = @[@"Palacinci",@"Palacinci s nutelom"];
+    if([self.nazivKategorije isEqualToString:@"Palacinci"])
+        _slatkiRecepti = @[@"Palacinci s makom punjeni vocem"/*,@"Palacinci s nutelom"*/];
     // Uncomment the following line to preserve selection between presentations.
     // self.clearsSelectionOnViewWillAppear = NO;
     

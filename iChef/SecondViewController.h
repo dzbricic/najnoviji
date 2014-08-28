@@ -7,15 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <CoreData/CoreData.h>
 
 @interface SecondViewController : UIViewController
-<UITableViewDelegate, UITableViewDataSource, NSFetchedResultsControllerDelegate>
+<UITableViewDelegate, UITableViewDataSource>
 
 @property (weak, nonatomic) IBOutlet UITableView *slatkaKategorija;
 
 @property NSArray *kategorijeNizSlatka;
-@property (strong, nonatomic) NSFetchedResultsController *fetchedResultsController;
-@property (strong, nonatomic) NSManagedObjectContext *managedObjectContext;
 
 @end
